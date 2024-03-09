@@ -1,5 +1,5 @@
 
-class Kendaraan {
+public class Kendaraan {
     String nomorKendaraan;
     int harga;
     
